@@ -4,7 +4,7 @@ title: "Install zookeeper on kubernetes"
 date: 2020-01-26
 ---
 
-# Tested On
+## Tested On
 OS: Ubuntu 18.04  
 Kubernetes Version: v1.17.0  
 Zookeeper Version: 3.5.6
@@ -12,7 +12,7 @@ Zookeeper Version: 3.5.6
 In this guide you will learn how to deploy the official image of zookeeper on kubernetes.  
 In this guide I will use local volumes because I am using kubernetes on bare-metal servers.
 
-# Install zookeeper
+## Install zookeeper
 * create local directories for zookeeper data volumes on all servers that will run zookeeper
 
 ```
