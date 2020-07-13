@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Run Chef Server Behind Nginx"
 date: 2019-09-18
 ---

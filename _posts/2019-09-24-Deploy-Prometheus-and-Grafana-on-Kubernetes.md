@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Deploy Prometheus and Grafana on Kubernetes"
 date: 2019-12-29
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to install Chef-Server Inside Docker Container"
 date: 2019-09-08
 ---

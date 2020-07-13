@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Automatic Backup of AWS instances"
 date: 2016-05-14
 ---

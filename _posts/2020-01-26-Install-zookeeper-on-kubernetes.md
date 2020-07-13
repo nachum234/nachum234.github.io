@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Install zookeeper on kubernetes"
 date: 2020-01-26
 ---

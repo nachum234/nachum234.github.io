@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Configure NAT On Linux With IPTABLES"
 date: 2012-05-12
 ---

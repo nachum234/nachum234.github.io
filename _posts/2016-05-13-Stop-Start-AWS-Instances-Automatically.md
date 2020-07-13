@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Stop Start AWS Instances Automatically"
 date: 2016-05-13
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Kubernetes Dashboard Behind Ingress-Nginx"
 date: 2019-12-23
 ---

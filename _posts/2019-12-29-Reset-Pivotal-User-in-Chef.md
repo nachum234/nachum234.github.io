@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Reset Pivotal User in CHEF"
 date: 2019-12-29
 ---
