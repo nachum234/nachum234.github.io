@@ -3,3 +3,6 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-cayman
+title: nachum234
+show_downloads: "false"
+google_analytics: "UA-11818443-2"
