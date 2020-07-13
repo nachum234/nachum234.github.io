@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Dynamically List Git Branches in Jenkins Parameter"
 date: 2016-05-16
 ---

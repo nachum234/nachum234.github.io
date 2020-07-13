@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Create User in Kubernetes"
 date: 2020-01-05
 ---

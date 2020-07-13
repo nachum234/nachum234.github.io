@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Create mysql replication"
 date: 2016-01-18
 ---

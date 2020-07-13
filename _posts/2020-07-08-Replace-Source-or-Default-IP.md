@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Replace Source/Default IP"
 date: 2020-07-08
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Coverting Linux System From Non Raid Disk To Software Raid (mdadm)"
 date: 2012-09-23
 ---

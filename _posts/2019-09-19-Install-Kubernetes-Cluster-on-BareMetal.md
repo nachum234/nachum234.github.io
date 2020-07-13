@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Install Kubernetes Cluster on BareMetal"
 date: 2019-09-19
 ---

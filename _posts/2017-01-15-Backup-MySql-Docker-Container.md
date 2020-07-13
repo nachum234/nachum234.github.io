@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Backup MySql Docker Container"
 date: 2018-11-01
 ---

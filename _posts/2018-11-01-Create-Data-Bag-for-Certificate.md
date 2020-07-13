@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Create Data Bag for Certificate"
 date: 2018-11-01
 ---
