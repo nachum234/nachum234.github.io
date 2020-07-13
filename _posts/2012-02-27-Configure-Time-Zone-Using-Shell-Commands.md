@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Configure Time Zone Using Shell Commands"
 date: 2012-02-27
 ---
