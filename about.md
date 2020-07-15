@@ -1,6 +1,6 @@
 ---
-layout: About
-title: nachum234
+layout: default
+title: About
 ---
 
 My name is Yossi and I like to workout at the gym on my free time : )
