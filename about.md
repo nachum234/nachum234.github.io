@@ -18,6 +18,7 @@ I have experience with the following:
 * Terraform
 * Grafana
 * Elastic
+* Jenkins
 * and more ...
 
 I love to build new environments on the cloud, and take
