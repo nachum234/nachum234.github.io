@@ -13,5 +13,7 @@ WHERE date = (SELECT MAX(date) FROM table_name);
 
 Just change table_name and date field with the correct table name and the field that include the date modification in your table
 
-To get the current size of all tables in your Database or get the size of all databases you can use the following:  
+## Notes
+
+* To get the current size of all tables in your Database or get the size of all databases you can use the following:  
 [Mysql-Get-Database-And-Tables-Size]({% post_url 2020-07-20-Mysql-Get-Database-And-Tables-Size %})
