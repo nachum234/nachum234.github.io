@@ -34,4 +34,4 @@ don't forget to change "database_name" with the correct database name
 I got the above commands from <https://www.a2hosting.com/kb/developer-corner/mysql/determining-the-size-of-mysql-databases-and-tables>
 
 To see if a table has been use, you can use the following post to check when was the latest update in your table:  
-{% post_url 2020-07-20-Get-The-Latest-Record-MySQL %}
+<{% post_url 2020-07-20-Get-The-Latest-Record-MySQL %}>
